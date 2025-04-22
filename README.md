@@ -1,5 +1,4 @@
-# SNAP_IA
-1) UCLA
+# SNAP_IA_UCLA
 Interthalamic adhesion's masks on the UCLA Consortium for Neuropsychiatric Phenomics LA5c Study
 
 All associated T1w MRIs are publicly available: https://openneuro.org/datasets/ds000030/versions/00016
