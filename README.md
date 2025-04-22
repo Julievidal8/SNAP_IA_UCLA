@@ -8,4 +8,4 @@ UCLA_PVE_results.ods file is the output sheet of the FSL FAST segmentation overl
 
 UCLA_analysis_github.ods is the file with the IA's characterization, including the presence or absence, its anatomical variant and its area corrected by the PVE. 
 
-Those analysis follows a protocol named SNAP which will soon be published. 
+Those analysis follows a protocol named SNAP which is in preparation. 
