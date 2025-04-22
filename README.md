@@ -12,6 +12,4 @@ UCLA_PVE_results.ods file is the output sheet of the FSL FAST segmentation overl
 UCLA_analysis_github.ods is the file with the IA's characterization, including its presence or absence, anatomical variant, and area corrected by the PVE. 
 
 
-2) UltraCortex: Submillimeter Ultra-High Field 9.4 T1 Brain MR Image Collection and Manual Cortical Segmentations
-https://openneuro.org/datasets/ds005216/versions/1.1.0
 
